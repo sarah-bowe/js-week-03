@@ -1,0 +1,17 @@
+{
+  "name": "js-week-03",
+  "version": "0.0.1",
+  "description": "JavaScript Week 3 - Arguments, Closures, & Scope",
+  "main": "index.js",
+  "author": "Weston Littrell",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^22.4.2"
+  },
+  "jest": {
+    "verbose": false
+  }
+}
